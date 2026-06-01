@@ -1,4 +1,4 @@
-# Traffic AI — Full Project Overview
+# Traffic AI — Full Project Overview.
 
 ## Directory Structure
 
